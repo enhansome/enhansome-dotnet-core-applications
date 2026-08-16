@@ -4,15 +4,15 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,120 | 🐛 164 | 🌐 C# | 📅 2026-08-14 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,124 | 🐛 166 | 🌐 C# | 📅 2026-08-14 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,155 | 🐛 852 | 🌐 C# | 📅 2026-08-14 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,156 | 🐛 851 | 🌐 C# | 📅 2026-08-15 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
-[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,416 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
+[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,418 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,512 | 🐛 4 | 🌐 C# | 📅 2026-08-05 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
+[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,513 | 🐛 4 | 🌐 C# | 📅 2026-08-05 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
 
 [**Miniblog.Core**](https://github.com/madskristensen/Miniblog.Core) ⭐ 1,520 | 🐛 63 | 🌐 C# | 📅 2026-01-19 (**Blog engine**) (**Apache 2.0**) - is a blog engine based on ASP.NET Core.
 
@@ -44,11 +44,11 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,354 | 🐛 45 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,458 | 🐛 19 | 🌐 C# | 📅 2026-08-14 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,460 | 🐛 19 | 🌐 C# | 📅 2026-08-14 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
-[**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,483 | 🐛 51 | 🌐 C# | 📅 2026-08-11 (**Dotnet Boxed**) (**MIT**) - is a project template.
+[**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,484 | 🐛 51 | 🌐 C# | 📅 2026-08-11 (**Dotnet Boxed**) (**MIT**) - is a project template.
 
 [**StarWars**](https://github.com/JacekKosciesza/StarWars) ⚠️ Archived (**GraphQL sample**) (**MIT**) - is a GraphQL-based ASP.NET Core Star Wars application.
 
@@ -64,11 +64,11 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) ⭐ 204 | 🐛 2 | 🌐 C# | 📅 2023-03-03 (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,564 | 🐛 13 | 🌐 C# | 📅 2026-07-31, [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
-[**Pos**](https://github.com/NHadi/Pos) ⭐ 330 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
+[**Pos**](https://github.com/NHadi/Pos) ⭐ 331 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
 [**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 208 | 🐛 9 | 🌐 C# | 📅 2026-08-14 (**Sample**) (**MIT**) - is a forum application.
 
-[**Pacco**](https://github.com/devmentors/Pacco) ⭐ 843 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
+[**Pacco**](https://github.com/devmentors/Pacco) ⭐ 842 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
 [**Awesome collection of .NET Core Static Analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers/blob/master/README.md) ⭐ 47 | 🐛 0 | 🌐 PowerShell | 📅 2020-07-13 - static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
