@@ -1,7 +1,515 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nopCommerce",
+          "description": "(E-commerce) (GPLv3) - is a popular open-source e-commerce shopping cart application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18586705,
+            "language": "C#",
+            "last_commit": "2026-08-21T17:18:39Z",
+            "owner": "nopSolutions",
+            "repo": "nopCommerce",
+            "stars": 10132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrchardCore",
+          "description": "(CMS) (BSD 3-Clause) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26884725,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:08:58Z",
+            "owner": "OrchardCMS",
+            "repo": "OrchardCore",
+            "stars": 8164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimplCommerce",
+          "description": "(E-commerce) (Apache 2.0) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59361967,
+            "language": "C#",
+            "last_commit": "2026-06-08T18:31:33Z",
+            "owner": "simplcommerce",
+            "repo": "SimplCommerce",
+            "stars": 4417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grandnode",
+          "description": "(E-commerce) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 47261966,
+            "language": "C#",
+            "last_commit": "2021-08-25T14:50:10Z",
+            "owner": "grandnode",
+            "repo": "grandnode",
+            "stars": 1894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "squidex",
+          "description": "(CMS) (MIT) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66815348,
+            "language": "C#",
+            "last_commit": "2026-08-05T09:34:14Z",
+            "owner": "Squidex",
+            "repo": "squidex",
+            "stars": 2509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miniblog.Core",
+          "description": "(Blog engine) (Apache 2.0) - is a blog engine based on ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104763537,
+            "language": "C#",
+            "last_commit": "2026-01-19T22:14:05Z",
+            "owner": "madskristensen",
+            "repo": "Miniblog.Core",
+            "stars": 1522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piranha.core",
+          "description": "(CMS) (MIT) - is a CMS application based on ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54377519,
+            "language": "C#",
+            "last_commit": "2026-08-09T11:03:53Z",
+            "owner": "PiranhaCMS",
+            "repo": "piranha.core",
+            "stars": 2191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blogifier",
+          "description": "(Blog engine) (MIT) - is a lightweight blog engine written in ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84835974,
+            "language": "C#",
+            "last_commit": "2026-03-16T13:30:03Z",
+            "owner": "blogifierdotnet",
+            "repo": "Blogifier",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Merp",
+          "description": "(Merp) (AGPL-3.0) - An event-based Micro ERP developed by Andrea Saltarello using ASP.NET Core 3.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70825023,
+            "language": "C#",
+            "last_commit": "2023-06-16T12:32:42Z",
+            "owner": "mastreeno",
+            "repo": "Merp",
+            "stars": 502
+          }
+        }
+      ],
+      "title": "Realtime Applications"
+    },
+    {
+      "description": "Visit my site Share Tech Links for curated list of tech related interesting blog links.\nPull requests are welcome for including new items in this list.\nThis list was first posted in Syncfusion Blog",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eShopOnContainers",
+          "description": "(Container-based microservices architecture) (MIT) - is a sample reference application demonstrating various architecture patterns of container-based microservices by Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 70104825,
+            "language": "C#",
+            "last_commit": "2023-11-15T22:27:17Z",
+            "owner": "dotnet-architecture",
+            "repo": "eShopOnContainers",
+            "stars": 24328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eShopOnWeb",
+          "description": "(Monolithic architecture) (MIT) - is a sample reference application demonstrating monolithic architecture powered by Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83380995,
+            "language": "C#",
+            "last_commit": "2025-01-13T20:55:37Z",
+            "owner": "dotnet-architecture",
+            "repo": "eShopOnWeb",
+            "stars": 10691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "practical-aspnetcore",
+          "description": "(Samples) (MIT) - is a practical sample for ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64290739,
+            "language": "C#",
+            "last_commit": "2026-08-14T06:31:46Z",
+            "owner": "dodyg",
+            "repo": "practical-aspnetcore",
+            "stars": 10408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EquinoxProject",
+          "description": "(Samples) (MIT) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76425236,
+            "language": "C#",
+            "last_commit": "2026-04-14T23:33:37Z",
+            "owner": "EduardoPires",
+            "repo": "EquinoxProject",
+            "stars": 6780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NorthwindTraders",
+          "description": "(Clean architecture, DDD, CQRS) (MIT)- is a sample reference application for domain-driven architecture using Entity Framework and CQRS pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 70584079,
+            "language": "C#",
+            "last_commit": "2023-07-01T22:31:12Z",
+            "owner": "jasontaylordev",
+            "repo": "NorthwindTraders",
+            "stars": 5007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveTraderCloud",
+          "description": "(Reactive programming architecture) (Apache 2.0) - is a real-time trading application demonstrating reactive programming principles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46142401,
+            "language": "TypeScript",
+            "last_commit": "2025-06-18T13:40:05Z",
+            "owner": "AdaptiveConsulting",
+            "repo": "ReactiveTraderCloud",
+            "stars": 1857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coolstore-microservices",
+          "description": "(Kubernetes-based microservice using service mesh) (MIT) - is a sample application demonstrating the use of Kubernetes using a service mesh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135726659,
+            "language": "C#",
+            "last_commit": "2023-03-07T00:21:52Z",
+            "owner": "vietnam-devs",
+            "repo": "coolstore-microservices",
+            "stars": 2530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-dotnet-core-cqrs-api",
+          "description": "(Clean architecture) (MIT) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168957647,
+            "language": "C#",
+            "last_commit": "2024-02-27T17:46:16Z",
+            "owner": "kgrzybek",
+            "repo": "sample-dotnet-core-cqrs-api",
+            "stars": 3061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clean-architecture-manga",
+          "description": "(Clean architecture) (Apache) - is a clean architecture sample application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115516512,
+            "language": "C#",
+            "last_commit": "2026-06-22T09:52:34Z",
+            "owner": "ivanpaulovich",
+            "repo": "clean-architecture-manga",
+            "stars": 4353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clean-architecture",
+          "description": "(Clean architecture) (MIT) - is a clean architecture template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213460285,
+            "language": "C#",
+            "last_commit": "2026-08-23T20:29:59Z",
+            "owner": "jasontaylordev",
+            "repo": "CleanArchitecture",
+            "stars": 20482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clean-testing",
+          "description": "(Clean Testing) (MIT) - is a clean testing sample application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 255331184,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T02:52:51Z",
+            "owner": "jasontaylordev",
+            "repo": "CleanTesting",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dotnet-Boxed",
+          "description": "(Dotnet Boxed) (MIT) - is a project template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25810742,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:12:02Z",
+            "owner": "Dotnet-Boxed",
+            "repo": "Templates",
+            "stars": 3485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarWars",
+          "description": "(GraphQL sample) (MIT) - is a GraphQL-based ASP.NET Core Star Wars application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 81738087,
+            "language": "C#",
+            "last_commit": "2017-12-04T21:53:30Z",
+            "owner": "JacekKosciesza",
+            "repo": "StarWars",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aspnetcore-realworld-example-app",
+          "description": "(CQRS, Fluent Validation, Automapper) - is a example project demonstrating the use of CQRS, Fluent Validation, Automapper, and Entity framework core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91508938,
+            "language": "C#",
+            "last_commit": "2026-08-19T15:49:33Z",
+            "owner": "realworld-apps",
+            "repo": "aspnetcore-realworld-example-app",
+            "stars": 2088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ContosoUniversityDotNetCore",
+          "description": "(CQRS) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101075628,
+            "language": "JavaScript",
+            "last_commit": "2018-03-06T17:40:56Z",
+            "owner": "jbogard",
+            "repo": "ContosoUniversityDotNetCore",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modular-monolith-with-ddd",
+          "description": "(CQRS) (MIT) - Full Modular Monolith application with Domain-Driven Design approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203892454,
+            "language": "C#",
+            "last_commit": "2024-06-04T17:51:26Z",
+            "owner": "kgrzybek",
+            "repo": "modular-monolith-with-ddd",
+            "stars": 13955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EventSourcing.NetCore",
+          "description": "(Event Sourcing) (MIT) - Example of Event Sourcing in .NET Core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80280403,
+            "language": "C#",
+            "last_commit": "2026-05-18T06:03:55Z",
+            "owner": "oskardudycz",
+            "repo": "EventSourcing.NetCore",
+            "stars": 3677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sennedjem",
+          "description": "(Clean architecture) (MIT) - Sennedjem CQRS (Command Query Responsibility Segregation), Clean Architecture. RabbitMq, ElasticSearch sample",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 237210470,
+            "language": "C#",
+            "last_commit": "2021-08-25T14:53:52Z",
+            "owner": "keremvaris",
+            "repo": "Sennedjem",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EventFlow.Example",
+          "description": "(DDD, Event Sourcing, CQRS) - DDD+CQRS+Event-sourcing example and contains following technology stack: EventFlow, EventStore, RabbitMQ, MongoDB, PostgreSQL, Docker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222979230,
+            "language": "C#",
+            "last_commit": "2023-03-03T23:28:21Z",
+            "owner": "OKTAYKIR",
+            "repo": "EventFlow.Example",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pos",
+          "description": "(Microservices, DDD, CQRS) - is a sample project demonstrating the use of microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219121425,
+            "language": "JavaScript",
+            "last_commit": "2026-03-16T14:15:19Z",
+            "owner": "NHadi",
+            "repo": "Pos",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POPForums",
+          "description": "(Sample) (MIT) - is a forum application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22034912,
+            "language": "C#",
+            "last_commit": "2026-08-17T18:00:53Z",
+            "owner": "POPWorldMedia",
+            "repo": "POPForums",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pacco",
+          "description": "(Sample) (MIT) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182634050,
+            "language": "Shell",
+            "last_commit": "2020-11-26T09:12:58Z",
+            "owner": "devmentors",
+            "repo": "Pacco",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome collection of .NET Core Static Analyzers",
+          "description": "static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278883679,
+            "language": "PowerShell",
+            "last_commit": "2020-07-13T15:16:08Z",
+            "owner": "bharatdwarkani",
+            "repo": "awesome-dotnet-core-static-analyzers",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome collection of Libraries to build SaaS applications",
+          "description": "Awesome collection of libraries to build Software as a Service (SaaS) application using ASP.NET Core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282454247,
+            "language": null,
+            "last_commit": "2024-03-03T04:41:09Z",
+            "owner": "bharatdwarkani",
+            "repo": "awesome-libraries-to-build-sass-application-dotnet-core",
+            "stars": 296
+          }
+        }
+      ],
+      "title": "Sample & Reference Applications"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T00:35:26.748Z",
+    "last_updated": "2026-08-24T14:19:16.528Z",
     "original_repository": "bharatdwarkani/awesome-dotnet-core-applications",
     "original_repository_id": 229597691,
     "original_repository_sha": "6ced6a4b0ff9ad510adf05320ea994b12dd6d6df",
