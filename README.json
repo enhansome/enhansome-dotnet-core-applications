@@ -27,7 +27,7 @@
             "archived": false,
             "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-24T22:54:44Z",
+            "last_commit": "2026-08-25T02:04:15Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8164
@@ -381,7 +381,7 @@
             "last_commit": "2024-06-04T17:51:26Z",
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13958
+            "stars": 13959
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-05-18T06:03:55Z",
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3678
+            "stars": 3679
           }
         },
         {
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:35:34.487Z",
+    "last_updated": "2026-08-25T06:17:00.969Z",
     "original_repository": "bharatdwarkani/awesome-dotnet-core-applications",
     "original_repository_id": 229597691,
     "original_repository_sha": "6ced6a4b0ff9ad510adf05320ea994b12dd6d6df",
