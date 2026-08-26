@@ -12,10 +12,10 @@
             "archived": false,
             "id": 18586705,
             "language": "C#",
-            "last_commit": "2026-08-24T15:15:11Z",
+            "last_commit": "2026-08-25T17:40:33Z",
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10133
+            "stars": 10134
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-25T02:04:15Z",
+            "last_commit": "2026-08-25T23:48:27Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8164
+            "stars": 8165
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 66815348,
             "language": "C#",
-            "last_commit": "2026-08-05T09:34:14Z",
+            "last_commit": "2026-08-25T17:11:24Z",
             "owner": "Squidex",
             "repo": "squidex",
             "stars": 2509
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-14T06:31:46Z",
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10408
+            "stars": 10410
           }
         },
         {
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 213460285,
             "language": "C#",
-            "last_commit": "2026-08-23T20:29:59Z",
+            "last_commit": "2026-08-25T16:16:38Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
             "stars": 20485
@@ -381,7 +381,7 @@
             "last_commit": "2024-06-04T17:51:26Z",
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13959
+            "stars": 13962
           }
         },
         {
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:00.969Z",
+    "last_updated": "2026-08-26T00:36:02.424Z",
     "original_repository": "bharatdwarkani/awesome-dotnet-core-applications",
     "original_repository_id": 229597691,
     "original_repository_sha": "6ced6a4b0ff9ad510adf05320ea994b12dd6d6df",
