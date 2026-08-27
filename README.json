@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T11:54:00Z",
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10131
+            "stars": 10132
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-27T02:02:05Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20490
+            "stars": 20492
           }
         },
         {
@@ -509,9 +509,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:31:55.775Z",
-    "original_repository": "bharatdwarkani/awesome-dotnet-core-applications",
-    "original_repository_id": 229597691,
+    "last_updated": "2026-08-27T11:34:10.130Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 229597691,
+      "language": null,
+      "last_commit": "2021-12-18T07:36:41Z",
+      "owner": "bharatdwarkani",
+      "repo": "awesome-dotnet-core-applications",
+      "stars": 605
+    },
     "original_repository_sha": "6ced6a4b0ff9ad510adf05320ea994b12dd6d6df",
     "enhanced_repository": "enhansome/enhansome-dotnet-core-applications",
     "enhanced_repository_description": null,
