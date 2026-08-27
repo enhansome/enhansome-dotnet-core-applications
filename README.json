@@ -12,10 +12,10 @@
             "archived": false,
             "id": 18586705,
             "language": "C#",
-            "last_commit": "2026-08-25T17:40:33Z",
+            "last_commit": "2026-08-26T11:54:00Z",
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10134
+            "stars": 10131
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-25T23:48:27Z",
+            "last_commit": "2026-08-27T01:23:19Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8165
+            "stars": 8167
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-08T18:31:33Z",
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4417
+            "stars": 4416
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 66815348,
             "language": "C#",
-            "last_commit": "2026-08-25T17:11:24Z",
+            "last_commit": "2026-08-26T14:56:06Z",
             "owner": "Squidex",
             "repo": "squidex",
             "stars": 2509
@@ -156,7 +156,7 @@
             "last_commit": "2023-11-15T22:27:17Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24328
+            "stars": 24327
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-04-14T23:33:37Z",
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6779
+            "stars": 6780
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2023-07-01T22:31:12Z",
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
-            "stars": 5007
+            "stars": 5006
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2023-03-07T00:21:52Z",
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2530
+            "stars": 2531
           }
         },
         {
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 213460285,
             "language": "C#",
-            "last_commit": "2026-08-25T16:16:38Z",
+            "last_commit": "2026-08-27T02:02:05Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20485
+            "stars": 20490
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-19T15:49:33Z",
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
-            "stars": 2088
+            "stars": 2087
           }
         },
         {
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 22034912,
             "language": "C#",
-            "last_commit": "2026-08-17T18:00:53Z",
+            "last_commit": "2026-08-26T19:12:32Z",
             "owner": "POPWorldMedia",
             "repo": "POPForums",
             "stars": 208
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T00:36:02.424Z",
+    "last_updated": "2026-08-27T05:31:55.775Z",
     "original_repository": "bharatdwarkani/awesome-dotnet-core-applications",
     "original_repository_id": 229597691,
     "original_repository_sha": "6ced6a4b0ff9ad510adf05320ea994b12dd6d6df",
