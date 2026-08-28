@@ -4,9 +4,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,132 | 🐛 163 | 🌐 C# | 📅 2026-08-26 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,134 | 🐛 163 | 🌐 C# | 📅 2026-08-27 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,167 | 🐛 852 | 🌐 C# | 📅 2026-08-27 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,167 | 🐛 846 | 🌐 C# | 📅 2026-08-27 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,416 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
@@ -28,7 +28,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**eShopOnWeb**](https://github.com/dotnet-architecture/eShopOnWeb) ⚠️ Archived (**Monolithic architecture**) (**MIT**) - is a sample reference application demonstrating monolithic architecture powered by Microsoft.
 
-[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,410 | 🐛 177 | 🌐 C# | 📅 2026-08-14 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
+[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,411 | 🐛 177 | 🌐 C# | 📅 2026-08-27 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
 
 [**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,780 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
@@ -56,7 +56,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) ⭐ 449 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-06 (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
 
-[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 13,962 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
+[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 13,965 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
 
 [**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,679 | 🐛 24 | 🌐 C# | 📅 2026-05-18 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
 
@@ -66,7 +66,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Pos**](https://github.com/NHadi/Pos) ⭐ 331 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
-[**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 208 | 🐛 7 | 🌐 C# | 📅 2026-08-26 (**Sample**) (**MIT**) - is a forum application.
+[**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 208 | 🐛 7 | 🌐 C# | 📅 2026-08-27 (**Sample**) (**MIT**) - is a forum application.
 
 [**Pacco**](https://github.com/devmentors/Pacco) ⭐ 842 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

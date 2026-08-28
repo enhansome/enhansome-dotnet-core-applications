@@ -12,11 +12,12 @@
             "archived": false,
             "id": 18586705,
             "language": "C#",
-            "last_commit": "2026-08-26T11:54:00Z",
+            "last_commit": "2026-08-27T13:15:49Z",
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10132
-          }
+            "stars": 10134
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-27T01:23:19Z",
+            "last_commit": "2026-08-27T22:49:12Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8167
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
             "stars": 4416
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "grandnode",
             "repo": "grandnode",
             "stars": 1894
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Squidex",
             "repo": "squidex",
             "stars": 2509
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "madskristensen",
             "repo": "Miniblog.Core",
             "stars": 1522
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
             "stars": 2191
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "blogifierdotnet",
             "repo": "Blogifier",
             "stars": 1295
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mastreeno",
             "repo": "Merp",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         }
       ],
       "title": "Realtime Applications"
@@ -157,7 +166,8 @@
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
             "stars": 24327
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
             "stars": 10691
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 64290739,
             "language": "C#",
-            "last_commit": "2026-08-14T06:31:46Z",
+            "last_commit": "2026-08-27T16:42:21Z",
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10410
-          }
+            "stars": 10411
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
             "stars": 6780
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
             "stars": 5006
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
             "stars": 1857
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
             "stars": 2531
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
             "stars": 3061
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ivanpaulovich",
             "repo": "clean-architecture-manga",
             "stars": 4353
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
             "stars": 20492
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "jasontaylordev",
             "repo": "CleanTesting",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
             "stars": 3485
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "JacekKosciesza",
             "repo": "StarWars",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
             "stars": 2087
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "jbogard",
             "repo": "ContosoUniversityDotNetCore",
             "stars": 449
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2024-06-04T17:51:26Z",
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13962
-          }
+            "stars": 13965
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
             "stars": 3679
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "keremvaris",
             "repo": "Sennedjem",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "OKTAYKIR",
             "repo": "EventFlow.Example",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "NHadi",
             "repo": "Pos",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -453,11 +482,12 @@
             "archived": false,
             "id": 22034912,
             "language": "C#",
-            "last_commit": "2026-08-26T19:12:32Z",
+            "last_commit": "2026-08-27T14:29:08Z",
             "owner": "POPWorldMedia",
             "repo": "POPForums",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "devmentors",
             "repo": "Pacco",
             "stars": 842
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "bharatdwarkani",
             "repo": "awesome-dotnet-core-static-analyzers",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         },
         {
           "node_type": "item",
@@ -502,14 +534,15 @@
             "owner": "bharatdwarkani",
             "repo": "awesome-libraries-to-build-sass-application-dotnet-core",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T07:27:47.107Z"
         }
       ],
       "title": "Sample & Reference Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:10.130Z",
+    "last_updated": "2026-08-28T07:27:47.107Z",
     "original_repository_info": {
       "archived": false,
       "id": 229597691,
