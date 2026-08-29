@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.",
+            "homepage": "https://www.nopcommerce.com",
             "id": 18586705,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:15:49Z",
+            "open_issues": 163,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10134
+            "stars": 10134,
+            "topics": [
+              "asp-net",
+              "asp-net-core",
+              "aspnet",
+              "aspnetcore",
+              "cart",
+              "dotnet",
+              "dotnet-core",
+              "e-commerce",
+              "ecommerce",
+              "ecommerce-platform",
+              "headless",
+              "mvc",
+              "net10",
+              "net6",
+              "net7",
+              "net8",
+              "net9",
+              "shop",
+              "shopping-cart",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -26,12 +52,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+            "homepage": "https://orchardcore.net",
             "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-27T22:49:12Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T01:35:15Z",
+            "open_issues": 845,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8167
+            "stars": 8168,
+            "topics": [
+              "asp-net",
+              "c-sharp",
+              "cms",
+              "dotnet-core",
+              "modular",
+              "orchard-cms",
+              "orchardcore"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -42,12 +81,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, cross platform, modulith ecommerce system built on .NET",
+            "homepage": "http://www.simplcommerce.com",
             "id": 59361967,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-08T18:31:33Z",
+            "open_issues": 172,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4416
+            "stars": 4415,
+            "topics": [
+              "angularjs",
+              "aspnetcore",
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "ecommerce",
+              "entity-framework-core",
+              "hacktoberfest",
+              "modular",
+              "modulith",
+              "shopping-cart"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -58,12 +114,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js. ",
+            "homepage": "https://www.grandnode.com",
             "id": 47261966,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-25T14:50:10Z",
+            "open_issues": 218,
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1894
+            "stars": 1894,
+            "topics": [
+              "asp-net",
+              "cart",
+              "commerce",
+              "core",
+              "csharp",
+              "docker",
+              "dotnet-core",
+              "dotnetcore",
+              "ecommerce",
+              "ecommerce-platform",
+              "headless-cms",
+              "marketplace",
+              "mongodb",
+              "nosql",
+              "open-source",
+              "shop",
+              "shopping-cart",
+              "storefront"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -74,12 +154,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless CMS and Content Managment Hub",
+            "homepage": "https://squidex.io",
             "id": 66815348,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:56:06Z",
+            "open_issues": 4,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2509
+            "stars": 2509,
+            "topics": [
+              "asp-net",
+              "asp-net-core",
+              "cms",
+              "csharp",
+              "headless-cms",
+              "mongodb",
+              "mysql",
+              "postgresql",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -90,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ASP.NET Core blogging engine",
+            "homepage": "https://miniblogcore.azurewebsites.net/",
             "id": 104763537,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-19T22:14:05Z",
+            "open_issues": 63,
             "owner": "madskristensen",
             "repo": "Miniblog.Core",
-            "stars": 1522
+            "stars": 1522,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -106,12 +206,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API.",
+            "homepage": "http://piranhacms.org",
             "id": 54377519,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-09T11:03:53Z",
+            "open_issues": 100,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
-            "stars": 2191
+            "stars": 2191,
+            "topics": [
+              "asp-net-core",
+              "asp-net-core-mvc",
+              "asp-net-core-razor-pages",
+              "cms",
+              "cms-framework",
+              "dotnet-core",
+              "dotnet6",
+              "entityframeworkcore",
+              "piranha"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -122,12 +237,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blogifier is an open-source publishing platform Written in ASP.NET and Blazor WebAssembly. With Blogifier make a personal blog or a website.",
+            "homepage": "https://blogifier.net",
             "id": 84835974,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-03-16T13:30:03Z",
+            "open_issues": 29,
             "owner": "blogifierdotnet",
             "repo": "Blogifier",
-            "stars": 1295
+            "stars": 1295,
+            "topics": [
+              "asp",
+              "blogging",
+              "blogifier",
+              "cms",
+              "dotnet",
+              "dotnet-core",
+              "dotnet5",
+              "microsoft",
+              "mvc"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -138,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An event based Micro ERP",
+            "homepage": null,
             "id": 70825023,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2023-06-16T12:32:42Z",
+            "open_issues": 10,
             "owner": "mastreeno",
             "repo": "Merp",
-            "stars": 502
+            "stars": 503,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         }
@@ -160,12 +295,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.",
+            "homepage": "https://dot.net/architecture",
             "id": 70104825,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-11-15T22:27:17Z",
+            "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24327
+            "stars": 24327,
+            "topics": [
+              "ddd",
+              "ddd-patterns",
+              "docker",
+              "microservices",
+              "netcore",
+              "spa",
+              "windowscontainers",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -176,12 +325,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb",
+            "homepage": null,
             "id": 83380995,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-01-13T20:55:37Z",
+            "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10691
+            "stars": 10691,
+            "topics": [
+              "architecture",
+              "asp-net-core",
+              "asp-net-core-mvc",
+              "clean-architecture",
+              "clean-code",
+              "ddd",
+              "ddd-architecture",
+              "ddd-patterns",
+              "ddd-sample",
+              "design-patterns",
+              "dotnetcore",
+              "ebook",
+              "efcore",
+              "microsoft",
+              "monolith",
+              "rest-api",
+              "software-architecture"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -192,12 +364,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical samples of ASP.NET Core 11, 10, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.",
+            "homepage": null,
             "id": 64290739,
             "language": "C#",
-            "last_commit": "2026-08-27T16:42:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:14:56Z",
+            "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10411
+            "stars": 10411,
+            "topics": [
+              "asp-net-core",
+              "aspnet-core",
+              "aspnetcore",
+              "dotnet-core",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -208,12 +391,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices",
+            "homepage": "http://equinoxproject.azurewebsites.net/",
             "id": 76425236,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-14T23:33:37Z",
+            "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6780
+            "stars": 6779,
+            "topics": [
+              "architecture",
+              "asp-net-core",
+              "asp-net-core-mvc",
+              "asp-net-identity",
+              "aspnet-core",
+              "aspnetcore",
+              "automapper",
+              "clean-code",
+              "cqrs",
+              "ddd",
+              "ef-core",
+              "equinox",
+              "event-sourcing",
+              "eventstore",
+              "fluentvalidation",
+              "jwt",
+              "mediatr",
+              "onion-architecture",
+              "swagger",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -224,12 +433,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.",
+            "homepage": null,
             "id": 70584079,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-07-01T22:31:12Z",
+            "open_issues": 0,
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
-            "stars": 5006
+            "stars": 5006,
+            "topics": [
+              "aspnet-core",
+              "clean-architecture",
+              "code-first",
+              "entity-framework-core",
+              "northwind-database"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -240,12 +460,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.",
+            "homepage": "https://www.reactivetrader.com",
             "id": 46142401,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-18T13:40:05Z",
+            "open_issues": 0,
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
-            "stars": 1857
+            "stars": 1857,
+            "topics": [
+              "credit",
+              "finance",
+              "finsemble",
+              "fx",
+              "openfin",
+              "pwa",
+              "react",
+              "real-time",
+              "rxjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -256,12 +492,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack .NET microservices build on Dapr and Tye",
+            "homepage": "https://vietnam-devs.github.io/coolstore-microservices",
             "id": 135726659,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-07T00:21:52Z",
+            "open_issues": 32,
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2531
+            "stars": 2531,
+            "topics": [
+              "aks",
+              "clean-architecture",
+              "cloud-native",
+              "dapr",
+              "ddd",
+              "ddd-example",
+              "docker",
+              "dotnet-core",
+              "grpc",
+              "kubernetes",
+              "microservices",
+              "microservices-architecture",
+              "postgresql",
+              "reactjs",
+              "redis",
+              "rest-api",
+              "service-mesh",
+              "tye",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -272,12 +533,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.",
+            "homepage": "https://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/",
             "id": 168957647,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-02-27T17:46:16Z",
+            "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3061
+            "stars": 3060,
+            "topics": [
+              "clean-architecture",
+              "clean-code",
+              "cqrs",
+              "cqrs-simple",
+              "dapper",
+              "ddd",
+              "ddd-cqrs",
+              "ddd-example",
+              "design-patterns",
+              "design-systems",
+              "domain-driven-design",
+              "dotnercore",
+              "dotnet",
+              "entity-framework",
+              "entity-framework-core",
+              "mediatr",
+              "rest",
+              "rest-api",
+              "software-architecture"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -288,12 +574,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+            "homepage": "http://paulovich.net/",
             "id": 115516512,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T09:52:34Z",
+            "open_issues": 45,
             "owner": "ivanpaulovich",
             "repo": "clean-architecture-manga",
-            "stars": 4353
+            "stars": 4360,
+            "topics": [
+              "clean-architecture",
+              "clean-code",
+              "cleanarchitecture",
+              "ddd-architecture",
+              "design-patterns",
+              "docker",
+              "domain-driven-design",
+              "dotnet-core",
+              "dotnet5",
+              "entity-framework-core",
+              "evolutionary-architecture",
+              "hexagonal-architecture",
+              "microservice",
+              "modular-applications",
+              "monorepo",
+              "onion-architecture",
+              "reactjs",
+              "solid-principles",
+              "tdd",
+              "webapi"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -304,12 +616,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean Architecture Solution Template for ASP.NET Core",
+            "homepage": "https://cleanarchitecture.jasontaylor.dev",
             "id": 213460285,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T02:02:05Z",
+            "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20492
+            "stars": 20502,
+            "topics": [
+              "angular",
+              "asp-net",
+              "aspire",
+              "clean-architecture",
+              "dotnet",
+              "entity-framework",
+              "react",
+              "template",
+              "web-api"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -320,12 +647,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample code for the Clean Testing talk.",
+            "homepage": null,
             "id": 255331184,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-08T02:52:51Z",
+            "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanTesting",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "clean-architecture",
+              "dotnetcore",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -336,12 +672,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
+            "homepage": "https://RehanSaeed.com",
             "id": 25810742,
             "language": "C#",
-            "last_commit": "2026-08-11T23:12:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T12:51:09Z",
+            "open_issues": 51,
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3485
+            "stars": 3486,
+            "topics": [
+              "api",
+              "asp-net",
+              "asp-net-core",
+              "c-sharp",
+              "docker",
+              "dotnet",
+              "dotnet-core",
+              "dotnet-new",
+              "graphql",
+              "nuget",
+              "orleans",
+              "project-template",
+              "swagger",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -352,12 +708,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core",
+            "homepage": null,
             "id": 81738087,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-12-04T21:53:30Z",
+            "open_issues": 10,
             "owner": "JacekKosciesza",
             "repo": "StarWars",
-            "stars": 618
+            "stars": 618,
+            "topics": [
+              "asp-net-core",
+              "dotnet-core",
+              "entity-framework-core",
+              "graphiql",
+              "graphql",
+              "graphql-dotnet",
+              "star-wars"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -368,12 +737,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASP.NET Core backend implementation for RealWorld",
+            "homepage": "https://realworld.io",
             "id": 91508938,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-19T15:49:33Z",
+            "open_issues": 4,
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
-            "stars": 2087
+            "stars": 2087,
+            "topics": [
+              "asp-net-core",
+              "csharp",
+              "entity-framework-core",
+              "net-core",
+              "realworld"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -384,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 101075628,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-06T17:40:56Z",
+            "open_issues": 7,
             "owner": "jbogard",
             "repo": "ContosoUniversityDotNetCore",
-            "stars": 449
+            "stars": 449,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -400,12 +785,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+            "homepage": null,
             "id": 203892454,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-06-04T17:51:26Z",
+            "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13965
+            "stars": 13974,
+            "topics": [
+              "architecture",
+              "clean-architecture",
+              "clean-code",
+              "cqrs",
+              "ddd",
+              "ddd-architecture",
+              "ddd-cqrs",
+              "ddd-example",
+              "design-patterns",
+              "design-systems",
+              "domain-driven-design",
+              "dotnet",
+              "dotnetcore",
+              "entity-framework-core",
+              "event-sourcing",
+              "modularity",
+              "monolith",
+              "rest",
+              "rest-api",
+              "software-architecture"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -416,12 +827,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and Tutorials of Event Sourcing in .NET",
+            "homepage": "https://event-driven.io",
             "id": 80280403,
             "language": "C#",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-05-18T06:03:55Z",
+            "open_issues": 24,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3679
+            "stars": 3679,
+            "topics": [
+              "cqrs",
+              "dotnet-core",
+              "event-sourcing",
+              "example",
+              "hacktoberfest",
+              "marten",
+              "mediatr",
+              "netcore"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -432,12 +857,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sennedjem CQRS (Command Query Responsibility Segregation) yaklaşımını benimseyen ve SOLID prensiplerini ve Clean Architecture yöntemlerini odaklayan bir yazılım geliştirme alt yapısıdır. RabbitMq, ElasticSearch vb araçlara entegre olmak konusunda çok yeteneklidir.",
+            "homepage": null,
             "id": 237210470,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-08-25T14:53:52Z",
+            "open_issues": 1,
             "owner": "keremvaris",
             "repo": "Sennedjem",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -448,12 +878,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DDD+CQRS+Event-sourcing examples using EventFlow following CQRS-ES architecture. It is configured with RabbitMQ, MongoDB(Snapshot store), PostgreSQL(Read store), EventStore(GES). It's targeted to .Net Core 2.2 and include docker compose file.",
+            "homepage": null,
             "id": 222979230,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-03T23:28:21Z",
+            "open_issues": 2,
             "owner": "OKTAYKIR",
             "repo": "EventFlow.Example",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "command-handler",
+              "cqrs",
+              "cqrs-es-architecture",
+              "ddd",
+              "domain-driven-design",
+              "dotnet-core",
+              "dotnetcore",
+              "event-driven",
+              "event-driven-architecture",
+              "event-handler",
+              "event-sourcing",
+              "eventflow",
+              "eventsource",
+              "eventsourcing",
+              "eventstore",
+              "ges",
+              "mongodb",
+              "rabbitmq",
+              "sagas",
+              "snapshot-store"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -464,12 +920,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY",
+            "homepage": null,
             "id": 219121425,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-16T14:15:19Z",
+            "open_issues": 4,
             "owner": "NHadi",
             "repo": "Pos",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "cqrs",
+              "cqrs-es",
+              "ddd-architecture",
+              "event-driven",
+              "event-sourcing",
+              "generic-repository",
+              "kafka",
+              "microservices",
+              "microservices-architecture",
+              "netcore",
+              "reactive"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -480,12 +953,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A forum application running on ASP.NET Core, available in seven languages.",
+            "homepage": "https://popworldmedia.github.io/POPForums/",
             "id": 22034912,
             "language": "C#",
-            "last_commit": "2026-08-27T14:29:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:36:02Z",
+            "open_issues": 7,
             "owner": "POPWorldMedia",
             "repo": "POPForums",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "aspnet-core",
+              "aspnetcore",
+              "c-sharp",
+              "community",
+              "dotnet",
+              "forum",
+              "forum-application",
+              "forum-software",
+              "forums",
+              "pop-forums",
+              "qanda"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -496,12 +986,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample microservices solution in .NET Core 3.1 based on the cloud-agnostic approach",
+            "homepage": "https://devmentors.io/courses/microservices-net",
             "id": 182634050,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-11-26T09:12:58Z",
+            "open_issues": 6,
             "owner": "devmentors",
             "repo": "Pacco",
-            "stars": 842
+            "stars": 842,
+            "topics": [
+              "microservice",
+              "microservices",
+              "microservices-architecture"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -512,12 +1011,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome collection of .NET Core Static Analyzers using the .NET Compiler Platform (Roslyn). Also includes a How to guide for using these analyzers and sample project with Cake Build Script to integrate in Continuous integration.",
+            "homepage": null,
             "id": 278883679,
             "language": "PowerShell",
+            "license": "CC0-1.0",
             "last_commit": "2020-07-13T15:16:08Z",
+            "open_issues": 0,
             "owner": "bharatdwarkani",
             "repo": "awesome-dotnet-core-static-analyzers",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         },
@@ -528,12 +1035,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome collection of libraries to build Software as a Service (SaaS) web application using ASP.NET Core",
+            "homepage": null,
             "id": 282454247,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-03-03T04:41:09Z",
+            "open_issues": 1,
             "owner": "bharatdwarkani",
             "repo": "awesome-libraries-to-build-sass-application-dotnet-core",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
         }
@@ -542,15 +1057,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:27:47.107Z",
+    "last_updated": "2026-08-29T04:40:14.772Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
+      "homepage": null,
       "id": 229597691,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-12-18T07:36:41Z",
+      "open_issues": 3,
       "owner": "bharatdwarkani",
       "repo": "awesome-dotnet-core-applications",
-      "stars": 605
+      "stars": 605,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "6ced6a4b0ff9ad510adf05320ea994b12dd6d6df",
     "enhanced_repository": "enhansome/enhansome-dotnet-core-applications",

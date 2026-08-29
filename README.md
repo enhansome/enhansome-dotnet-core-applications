@@ -6,9 +6,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,134 | 🐛 163 | 🌐 C# | 📅 2026-08-27 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,167 | 🐛 846 | 🌐 C# | 📅 2026-08-27 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,168 | 🐛 845 | 🌐 C# | 📅 2026-08-29 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
-[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,416 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
+[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,415 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
@@ -20,7 +20,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Blogifier**](https://github.com/blogifierdotnet/Blogifier) ⭐ 1,295 | 🐛 29 | 🌐 C# | 📅 2026-03-16 (**Blog engine**) (**MIT**) - is a lightweight blog engine written in ASP.NET Core.
 
-[**Merp**](https://github.com/mastreeno/Merp) ⭐ 502 | 🐛 10 | 🌐 C# | 📅 2023-06-16 (**Merp**) (**AGPL-3.0**) - An event-based Micro ERP developed by Andrea Saltarello using ASP.NET Core 3.1
+[**Merp**](https://github.com/mastreeno/Merp) ⭐ 503 | 🐛 10 | 🌐 C# | 📅 2023-06-16 (**Merp**) (**AGPL-3.0**) - An event-based Micro ERP developed by Andrea Saltarello using ASP.NET Core 3.1
 
 ## Sample & Reference Applications
 
@@ -28,9 +28,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**eShopOnWeb**](https://github.com/dotnet-architecture/eShopOnWeb) ⚠️ Archived (**Monolithic architecture**) (**MIT**) - is a sample reference application demonstrating monolithic architecture powered by Microsoft.
 
-[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,411 | 🐛 177 | 🌐 C# | 📅 2026-08-27 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
+[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,411 | 🐛 177 | 🌐 C# | 📅 2026-08-28 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
 
-[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,780 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,779 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
 [**NorthwindTraders**](https://github.com/JasonGT/NorthwindTraders) ⚠️ Archived (**Clean architecture, DDD, CQRS**) (**MIT**)- is a sample reference application for domain-driven architecture using Entity Framework and CQRS pattern.
 
@@ -40,15 +40,15 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**cloudscribe**](https://github.com/cloudscribe/cloudscribe) (**Multitenant framework architecture**) (**Apache 2.0**) - is a foundation framework for building a multitenant application.
 
-[**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) ⭐ 3,061 | 🐛 13 | 🌐 C# | 📅 2024-02-27 (**Clean architecture**) (**MIT**) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+[**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) ⭐ 3,060 | 🐛 13 | 🌐 C# | 📅 2024-02-27 (**Clean architecture**) (**MIT**) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
-[**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,353 | 🐛 45 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
+[**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,360 | 🐛 45 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,492 | 🐛 20 | 🌐 C# | 📅 2026-08-27 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,502 | 🐛 20 | 🌐 C# | 📅 2026-08-27 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
-[**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,485 | 🐛 51 | 🌐 C# | 📅 2026-08-11 (**Dotnet Boxed**) (**MIT**) - is a project template.
+[**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,486 | 🐛 51 | 🌐 C# | 📅 2026-08-28 (**Dotnet Boxed**) (**MIT**) - is a project template.
 
 [**StarWars**](https://github.com/JacekKosciesza/StarWars) ⚠️ Archived (**GraphQL sample**) (**MIT**) - is a GraphQL-based ASP.NET Core Star Wars application.
 
@@ -56,7 +56,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) ⭐ 449 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-06 (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
 
-[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 13,965 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
+[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 13,974 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
 
 [**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,679 | 🐛 24 | 🌐 C# | 📅 2026-05-18 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
 
@@ -66,7 +66,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Pos**](https://github.com/NHadi/Pos) ⭐ 331 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
-[**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 208 | 🐛 7 | 🌐 C# | 📅 2026-08-27 (**Sample**) (**MIT**) - is a forum application.
+[**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 208 | 🐛 7 | 🌐 C# | 📅 2026-08-28 (**Sample**) (**MIT**) - is a forum application.
 
 [**Pacco**](https://github.com/devmentors/Pacco) ⭐ 842 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
