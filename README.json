@@ -15,8 +15,8 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T13:15:49Z",
-            "open_issues": 163,
+            "last_commit": "2026-08-31T15:24:53Z",
+            "open_issues": 162,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
             "stars": 10134,
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-30T18:51:55Z",
-            "open_issues": 849,
+            "last_commit": "2026-09-01T02:12:42Z",
+            "open_issues": 853,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8169,
+            "stars": 8170,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -90,7 +90,7 @@
             "open_issues": 172,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4415,
+            "stars": 4413,
             "topics": [
               "angularjs",
               "aspnetcore",
@@ -123,7 +123,7 @@
             "open_issues": 218,
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1894,
+            "stars": 1893,
             "topics": [
               "asp-net",
               "cart",
@@ -163,7 +163,7 @@
             "open_issues": 4,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2508,
+            "stars": 2506,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24326,
+            "stars": 24324,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -334,7 +334,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10690,
+            "stars": 10688,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -369,11 +369,11 @@
             "id": 64290739,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T18:26:56Z",
+            "last_commit": "2026-08-31T19:55:39Z",
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10411,
+            "stars": 10408,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -400,7 +400,7 @@
             "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6778,
+            "stars": 6779,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -583,7 +583,7 @@
             "open_issues": 45,
             "owner": "ivanpaulovich",
             "repo": "clean-architecture-manga",
-            "stars": 4365,
+            "stars": 4366,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-31T01:34:58Z",
-            "open_issues": 21,
+            "last_commit": "2026-08-31T05:47:41Z",
+            "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20514,
+            "stars": 20516,
             "topics": [
               "angular",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13985,
+            "stars": 13988,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -836,7 +836,7 @@
             "open_issues": 24,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3679,
+            "stars": 3680,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T02:05:44.868Z",
+    "last_updated": "2026-09-01T02:26:06.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
@@ -1069,7 +1069,7 @@
       "open_issues": 3,
       "owner": "bharatdwarkani",
       "repo": "awesome-dotnet-core-applications",
-      "stars": 605,
+      "stars": 604,
       "topics": [
         "awesome",
         "awesome-list"
