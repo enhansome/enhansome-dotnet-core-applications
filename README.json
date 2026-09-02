@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T15:24:53Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10134,
+            "stars": 10138,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T02:12:42Z",
-            "open_issues": 853,
+            "last_commit": "2026-09-01T19:24:12Z",
+            "open_issues": 852,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8170,
@@ -163,7 +163,7 @@
             "open_issues": 4,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2506,
+            "stars": 2507,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -369,7 +369,7 @@
             "id": 64290739,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-31T19:55:39Z",
+            "last_commit": "2026-09-01T12:14:03Z",
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
@@ -625,7 +625,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20516,
+            "stars": 20520,
             "topics": [
               "angular",
               "asp-net",
@@ -681,7 +681,7 @@
             "open_issues": 51,
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3486,
+            "stars": 3487,
             "topics": [
               "api",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13988,
+            "stars": 13990,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -995,7 +995,7 @@
             "open_issues": 6,
             "owner": "devmentors",
             "repo": "Pacco",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "microservice",
               "microservices",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:26:06.641Z",
+    "last_updated": "2026-09-02T01:47:14.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
@@ -1069,7 +1069,7 @@
       "open_issues": 3,
       "owner": "bharatdwarkani",
       "repo": "awesome-dotnet-core-applications",
-      "stars": 604,
+      "stars": 605,
       "topics": [
         "awesome",
         "awesome-list"
