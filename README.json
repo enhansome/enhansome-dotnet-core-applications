@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T22:42:13Z",
-            "open_issues": 845,
+            "last_commit": "2026-09-06T01:10:14Z",
+            "open_issues": 848,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8173,
+            "stars": 8172,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -163,7 +163,7 @@
             "open_issues": 4,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2507,
+            "stars": 2508,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24321,
+            "stars": 24322,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -334,7 +334,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10687,
+            "stars": 10686,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -442,7 +442,7 @@
             "open_issues": 0,
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
-            "stars": 5005,
+            "stars": 5004,
             "topics": [
               "aspnet-core",
               "clean-architecture",
@@ -542,7 +542,7 @@
             "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3060,
+            "stars": 3061,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -625,7 +625,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20525,
+            "stars": 20524,
             "topics": [
               "angular",
               "asp-net",
@@ -677,11 +677,11 @@
             "id": 25810742,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:17:45Z",
+            "last_commit": "2026-09-06T01:12:17Z",
             "open_issues": 51,
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3487,
+            "stars": 3484,
             "topics": [
               "api",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13998,
+            "stars": 14000,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:48:23.452Z",
+    "last_updated": "2026-09-06T01:42:43.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
