@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T16:28:15Z",
+            "last_commit": "2026-09-11T09:50:28Z",
             "open_issues": 168,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10143,
+            "stars": 10144,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-10T22:19:40Z",
-            "open_issues": 855,
+            "last_commit": "2026-09-11T17:12:24Z",
+            "open_issues": 856,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8179,
+            "stars": 8180,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24318,
+            "stars": 24317,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -442,7 +442,7 @@
             "open_issues": 0,
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
-            "stars": 5003,
+            "stars": 5002,
             "topics": [
               "aspnet-core",
               "clean-architecture",
@@ -542,7 +542,7 @@
             "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3061,
+            "stars": 3062,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -625,7 +625,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20540,
+            "stars": 20545,
             "topics": [
               "angular",
               "asp-net",
@@ -746,7 +746,7 @@
             "open_issues": 5,
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
-            "stars": 2088,
+            "stars": 2089,
             "topics": [
               "asp-net-core",
               "csharp",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14007,
+            "stars": 14011,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:52:23.324Z",
+    "last_updated": "2026-09-12T01:57:05.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
