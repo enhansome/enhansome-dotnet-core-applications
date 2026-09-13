@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T09:50:28Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10144,
+            "stars": 10145,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T17:12:24Z",
-            "open_issues": 856,
+            "last_commit": "2026-09-13T00:50:11Z",
+            "open_issues": 862,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8180,
+            "stars": 8181,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24317,
+            "stars": 24316,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -625,7 +625,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20545,
+            "stars": 20546,
             "topics": [
               "angular",
               "asp-net",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:57:05.550Z",
+    "last_updated": "2026-09-13T01:50:45.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",

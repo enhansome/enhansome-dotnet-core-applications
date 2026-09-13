@@ -4,9 +4,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,144 | 🐛 168 | 🌐 C# | 📅 2026-09-11 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,145 | 🐛 169 | 🌐 C# | 📅 2026-09-11 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,180 | 🐛 856 | 🌐 C# | 📅 2026-09-11 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,181 | 🐛 862 | 🌐 C# | 📅 2026-09-13 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,413 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
@@ -44,7 +44,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,368 | 🐛 45 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,545 | 🐛 20 | 🌐 C# | 📅 2026-09-07 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,546 | 🐛 20 | 🌐 C# | 📅 2026-09-07 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
