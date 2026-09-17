@@ -15,7 +15,7 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T17:28:59Z",
+            "last_commit": "2026-09-16T12:20:51Z",
             "open_issues": 170,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T02:02:37Z",
-            "open_issues": 853,
+            "last_commit": "2026-09-16T16:42:38Z",
+            "open_issues": 852,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8184,
@@ -90,7 +90,7 @@
             "open_issues": 172,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4414,
+            "stars": 4415,
             "topics": [
               "angularjs",
               "aspnetcore",
@@ -159,7 +159,7 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-15T19:20:41Z",
+            "last_commit": "2026-09-16T13:57:21Z",
             "open_issues": 3,
             "owner": "Squidex",
             "repo": "squidex",
@@ -215,7 +215,7 @@
             "open_issues": 100,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
-            "stars": 2192,
+            "stars": 2193,
             "topics": [
               "asp-net-core",
               "asp-net-core-mvc",
@@ -246,7 +246,7 @@
             "open_issues": 28,
             "owner": "blogifierdotnet",
             "repo": "Blogifier",
-            "stars": 1296,
+            "stars": 1295,
             "topics": [
               "asp",
               "blogging",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10408,
+            "stars": 10407,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
-            "stars": 1855,
+            "stars": 1854,
             "topics": [
               "credit",
               "finance",
@@ -625,7 +625,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20556,
+            "stars": 20558,
             "topics": [
               "angular",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14014,
+            "stars": 14019,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T02:07:55.577Z",
+    "last_updated": "2026-09-17T02:11:47.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
