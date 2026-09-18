@@ -4,11 +4,11 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,148 | 🐛 170 | 🌐 C# | 📅 2026-09-16 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,149 | 🐛 170 | 🌐 C# | 📅 2026-09-17 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,184 | 🐛 852 | 🌐 C# | 📅 2026-09-16 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,184 | 🐛 853 | 🌐 C# | 📅 2026-09-17 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
-[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,415 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
+[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,414 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
@@ -30,7 +30,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,407 | 🐛 177 | 🌐 C# | 📅 2026-09-15 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
 
-[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,776 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,775 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
 [**NorthwindTraders**](https://github.com/JasonGT/NorthwindTraders) ⚠️ Archived (**Clean architecture, DDD, CQRS**) (**MIT**)- is a sample reference application for domain-driven architecture using Entity Framework and CQRS pattern.
 
@@ -44,7 +44,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,368 | 🐛 45 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,558 | 🐛 20 | 🌐 C# | 📅 2026-09-15 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,565 | 🐛 20 | 🌐 C# | 📅 2026-09-15 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
@@ -56,9 +56,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) ⭐ 449 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-06 (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
 
-[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 14,019 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
+[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 14,022 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
 
-[**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,683 | 🐛 24 | 🌐 C# | 📅 2026-05-18 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
+[**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,683 | 🐛 25 | 🌐 C# | 📅 2026-09-17 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
 
 [**Sennedjem**](https://github.com/keremvaris/Sennedjem) ⚠️ Archived (**Clean architecture**) (**MIT**) - Sennedjem CQRS (Command Query Responsibility Segregation), Clean Architecture. RabbitMq, ElasticSearch sample
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
