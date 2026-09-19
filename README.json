@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T11:39:52Z",
-            "open_issues": 170,
+            "last_commit": "2026-09-18T14:35:22Z",
+            "open_issues": 168,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10149,
+            "stars": 10150,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T23:31:51Z",
-            "open_issues": 853,
+            "last_commit": "2026-09-18T21:38:54Z",
+            "open_issues": 851,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8184,
+            "stars": 8182,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -123,7 +123,7 @@
             "open_issues": 218,
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1893,
+            "stars": 1894,
             "topics": [
               "asp-net",
               "cart",
@@ -163,7 +163,7 @@
             "open_issues": 3,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2509,
+            "stars": 2510,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -215,7 +215,7 @@
             "open_issues": 100,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
-            "stars": 2193,
+            "stars": 2194,
             "topics": [
               "asp-net-core",
               "asp-net-core-mvc",
@@ -246,7 +246,7 @@
             "open_issues": 28,
             "owner": "blogifierdotnet",
             "repo": "Blogifier",
-            "stars": 1295,
+            "stars": 1294,
             "topics": [
               "asp",
               "blogging",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24315,
+            "stars": 24314,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10407,
+            "stars": 10404,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -542,7 +542,7 @@
             "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3061,
+            "stars": 3062,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -583,7 +583,7 @@
             "open_issues": 45,
             "owner": "ivanpaulovich",
             "repo": "clean-architecture-manga",
-            "stars": 4368,
+            "stars": 4369,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:57:26Z",
+            "last_commit": "2026-09-19T01:24:19Z",
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20565,
+            "stars": 20568,
             "topics": [
               "angular",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14022,
+            "stars": 14027,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:58:27.012Z",
+    "last_updated": "2026-09-19T02:03:14.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
