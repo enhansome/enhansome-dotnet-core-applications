@@ -15,7 +15,7 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T17:49:46Z",
+            "last_commit": "2026-09-30T06:50:20Z",
             "open_issues": 168,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T02:47:50Z",
+            "last_commit": "2026-09-30T15:32:17Z",
             "open_issues": 852,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8191,
+            "stars": 8192,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -90,7 +90,7 @@
             "open_issues": 172,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4415,
+            "stars": 4416,
             "topics": [
               "angularjs",
               "aspnetcore",
@@ -159,11 +159,11 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:01:03Z",
+            "last_commit": "2026-09-30T21:17:47Z",
             "open_issues": 4,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2508,
+            "stars": 2507,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -215,7 +215,7 @@
             "open_issues": 100,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
-            "stars": 2196,
+            "stars": 2197,
             "topics": [
               "asp-net-core",
               "asp-net-core-mvc",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10407,
+            "stars": 10408,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -542,7 +542,7 @@
             "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3062,
+            "stars": 3061,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -625,7 +625,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20606,
+            "stars": 20615,
             "topics": [
               "angular",
               "asp-net",
@@ -836,7 +836,7 @@
             "open_issues": 25,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3686,
+            "stars": 3687,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:47:54.843Z",
+    "last_updated": "2026-10-01T02:54:03.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
