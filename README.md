@@ -4,15 +4,15 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,161 | 🐛 168 | 🌐 C# | 📅 2026-09-30 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,162 | 🐛 168 | 🌐 C# | 📅 2026-10-01 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,192 | 🐛 852 | 🌐 C# | 📅 2026-09-30 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,193 | 🐛 849 | 🌐 C# | 📅 2026-10-01 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,416 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,507 | 🐛 4 | 🌐 C# | 📅 2026-09-30 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
+[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,508 | 🐛 3 | 🌐 C# | 📅 2026-10-01 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
 
 [**Miniblog.Core**](https://github.com/madskristensen/Miniblog.Core) ⭐ 1,524 | 🐛 63 | 🌐 C# | 📅 2026-01-19 (**Blog engine**) (**Apache 2.0**) - is a blog engine based on ASP.NET Core.
 
@@ -44,7 +44,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,372 | 🐛 45 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,615 | 🐛 20 | 🌐 C# | 📅 2026-09-29 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,620 | 🐛 20 | 🌐 C# | 📅 2026-10-01 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
@@ -66,7 +66,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Pos**](https://github.com/NHadi/Pos) ⭐ 331 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
-[**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 207 | 🐛 7 | 🌐 C# | 📅 2026-09-24 (**Sample**) (**MIT**) - is a forum application.
+[**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 207 | 🐛 8 | 🌐 C# | 📅 2026-10-01 (**Sample**) (**MIT**) - is a forum application.
 
 [**Pacco**](https://github.com/devmentors/Pacco) ⭐ 841 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
