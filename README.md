@@ -6,7 +6,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,162 | 🐛 177 | 🌐 C# | 📅 2026-10-02 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,193 | 🐛 849 | 🌐 C# | 📅 2026-10-03 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,193 | 🐛 848 | 🌐 C# | 📅 2026-10-03 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,413 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
