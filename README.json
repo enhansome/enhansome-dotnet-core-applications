@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10162,
+            "stars": 10161,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:28:18Z",
+            "last_commit": "2026-10-04T00:51:19Z",
             "open_issues": 848,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8193,
+            "stars": 8194,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -211,8 +211,8 @@
             "id": 54377519,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-09T11:03:53Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-03T18:06:32Z",
+            "open_issues": 99,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
             "stars": 2197,
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24307,
+            "stars": 24305,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -334,7 +334,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10682,
+            "stars": 10681,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -400,7 +400,7 @@
             "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
-            "stars": 1855,
+            "stars": 1857,
             "topics": [
               "credit",
               "finance",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14041,
+            "stars": 14042,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -958,8 +958,8 @@
             "id": 22034912,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:52:59Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T19:23:05Z",
+            "open_issues": 7,
             "owner": "POPWorldMedia",
             "repo": "POPForums",
             "stars": 207,
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:46:27.907Z",
+    "last_updated": "2026-10-04T03:14:12.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
