@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-04T00:51:19Z",
-            "open_issues": 848,
+            "last_commit": "2026-10-04T23:48:46Z",
+            "open_issues": 847,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8194,
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24305,
+            "stars": 24304,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10407,
+            "stars": 10405,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -400,7 +400,7 @@
             "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6775,
+            "stars": 6776,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14042,
+            "stars": 14046,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T03:14:12.461Z",
+    "last_updated": "2026-10-05T02:49:12.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
