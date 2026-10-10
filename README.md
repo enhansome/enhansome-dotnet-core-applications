@@ -4,15 +4,15 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,158 | 🐛 180 | 🌐 C# | 📅 2026-10-08 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,158 | 🐛 182 | 🌐 C# | 📅 2026-10-08 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,195 | 🐛 844 | 🌐 C# | 📅 2026-10-09 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,193 | 🐛 830 | 🌐 C# | 📅 2026-10-10 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,415 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,510 | 🐛 4 | 🌐 C# | 📅 2026-10-02 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
+[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,509 | 🐛 4 | 🌐 C# | 📅 2026-10-02 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
 
 [**Miniblog.Core**](https://github.com/madskristensen/Miniblog.Core) ⭐ 1,524 | 🐛 63 | 🌐 C# | 📅 2026-01-19 (**Blog engine**) (**Apache 2.0**) - is a blog engine based on ASP.NET Core.
 
@@ -40,11 +40,11 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**cloudscribe**](https://github.com/cloudscribe/cloudscribe) (**Multitenant framework architecture**) (**Apache 2.0**) - is a foundation framework for building a multitenant application.
 
-[**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) ⭐ 3,062 | 🐛 13 | 🌐 C# | 📅 2024-02-27 (**Clean architecture**) (**MIT**) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+[**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) ⭐ 3,063 | 🐛 13 | 🌐 C# | 📅 2024-02-27 (**Clean architecture**) (**MIT**) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
-[**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,372 | 🐛 46 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
+[**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,373 | 🐛 46 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,634 | 🐛 16 | 🌐 C# | 📅 2026-10-06 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,632 | 🐛 16 | 🌐 C# | 📅 2026-10-06 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
@@ -56,13 +56,13 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) ⭐ 449 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-06 (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
 
-[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 14,059 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
+[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 14,060 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
 
-[**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,688 | 🐛 26 | 🌐 C# | 📅 2026-09-17 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
+[**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,687 | 🐛 26 | 🌐 C# | 📅 2026-09-17 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
 
 [**Sennedjem**](https://github.com/keremvaris/Sennedjem) ⚠️ Archived (**Clean architecture**) (**MIT**) - Sennedjem CQRS (Command Query Responsibility Segregation), Clean Architecture. RabbitMq, ElasticSearch sample
 
-[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) ⭐ 204 | 🐛 2 | 🌐 C# | 📅 2023-03-03 (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,568 | 🐛 13 | 🌐 C# | 📅 2026-10-04, [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) ⭐ 204 | 🐛 2 | 🌐 C# | 📅 2023-03-03 (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,567 | 🐛 13 | 🌐 C# | 📅 2026-10-04, [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
 [**Pos**](https://github.com/NHadi/Pos) ⭐ 331 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
