@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T04:44:39Z",
-            "open_issues": 183,
+            "last_commit": "2026-10-12T09:53:30Z",
+            "open_issues": 182,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10157,
+            "stars": 10158,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-11T17:01:08Z",
-            "open_issues": 840,
+            "last_commit": "2026-10-13T03:46:09Z",
+            "open_issues": 836,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8194,
@@ -334,7 +334,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10676,
+            "stars": 10677,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-12T02:29:20Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-12T10:43:32Z",
+            "open_issues": 10,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20633,
+            "stars": 20634,
             "topics": [
               "angular",
               "asp-net",
@@ -746,7 +746,7 @@
             "open_issues": 5,
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
-            "stars": 2092,
+            "stars": 2093,
             "topics": [
               "asp-net-core",
               "csharp",
@@ -773,7 +773,7 @@
             "open_issues": 7,
             "owner": "jbogard",
             "repo": "ContosoUniversityDotNetCore",
-            "stars": 449,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-28T07:27:47.107Z"
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14062,
+            "stars": 14063,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -836,7 +836,7 @@
             "open_issues": 26,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3687,
+            "stars": 3686,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -887,7 +887,7 @@
             "open_issues": 2,
             "owner": "OKTAYKIR",
             "repo": "EventFlow.Example",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "command-handler",
               "cqrs",
@@ -958,7 +958,7 @@
             "id": 22034912,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T00:01:29Z",
+            "last_commit": "2026-10-13T03:18:31Z",
             "open_issues": 8,
             "owner": "POPWorldMedia",
             "repo": "POPForums",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T03:04:06.256Z",
+    "last_updated": "2026-10-13T04:19:53.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
