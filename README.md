@@ -4,15 +4,15 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,158 | 🐛 189 | 🌐 C# | 📅 2026-10-15 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,158 | 🐛 184 | 🌐 C# | 📅 2026-10-16 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,201 | 🐛 825 | 🌐 C# | 📅 2026-10-15 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,202 | 🐛 821 | 🌐 C# | 📅 2026-10-17 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,414 | 🐛 172 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,508 | 🐛 4 | 🌐 C# | 📅 2026-10-13 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
+[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,509 | 🐛 4 | 🌐 C# | 📅 2026-10-13 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
 
 [**Miniblog.Core**](https://github.com/madskristensen/Miniblog.Core) ⭐ 1,524 | 🐛 63 | 🌐 C# | 📅 2026-01-19 (**Blog engine**) (**Apache 2.0**) - is a blog engine based on ASP.NET Core.
 
@@ -28,9 +28,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**eShopOnWeb**](https://github.com/dotnet-architecture/eShopOnWeb) ⚠️ Archived (**Monolithic architecture**) (**MIT**) - is a sample reference application demonstrating monolithic architecture powered by Microsoft.
 
-[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,407 | 🐛 177 | 🌐 C# | 📅 2026-09-15 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
+[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,409 | 🐛 177 | 🌐 C# | 📅 2026-09-15 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
 
-[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,780 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,781 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
 [**NorthwindTraders**](https://github.com/JasonGT/NorthwindTraders) ⚠️ Archived (**Clean architecture, DDD, CQRS**) (**MIT**)- is a sample reference application for domain-driven architecture using Entity Framework and CQRS pattern.
 
@@ -44,7 +44,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,374 | 🐛 46 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,640 | 🐛 9 | 🌐 C# | 📅 2026-10-15 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,639 | 🐛 9 | 🌐 C# | 📅 2026-10-15 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
@@ -56,7 +56,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) ⭐ 450 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-06 (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
 
-[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 14,073 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
+[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 14,075 | 🐛 68 | 🌐 C# | 📅 2024-06-04 (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
 
 [**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,686 | 🐛 26 | 🌐 C# | 📅 2026-09-17 (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
 
@@ -68,7 +68,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**POPForums**](https://github.com/POPWorldMedia/POPForums) ⭐ 207 | 🐛 6 | 🌐 C# | 📅 2026-10-15 (**Sample**) (**MIT**) - is a forum application.
 
-[**Pacco**](https://github.com/devmentors/Pacco) ⭐ 843 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
+[**Pacco**](https://github.com/devmentors/Pacco) ⭐ 842 | 🐛 6 | 🌐 Shell | 📅 2020-11-26 (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
 [**Awesome collection of .NET Core Static Analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers/blob/master/README.md) ⭐ 47 | 🐛 0 | 🌐 PowerShell | 📅 2020-07-13 - static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
