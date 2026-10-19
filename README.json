@@ -19,7 +19,7 @@
             "open_issues": 195,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10159,
+            "stars": 10161,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-18T01:32:26Z",
-            "open_issues": 824,
+            "last_commit": "2026-10-19T02:03:08Z",
+            "open_issues": 828,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8203,
@@ -90,7 +90,7 @@
             "open_issues": 172,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4413,
+            "stars": 4412,
             "topics": [
               "angularjs",
               "aspnetcore",
@@ -163,7 +163,7 @@
             "open_issues": 4,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2509,
+            "stars": 2510,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -215,7 +215,7 @@
             "open_issues": 100,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
-            "stars": 2196,
+            "stars": 2197,
             "topics": [
               "asp-net-core",
               "asp-net-core-mvc",
@@ -400,7 +400,7 @@
             "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6781,
+            "stars": 6782,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -542,7 +542,7 @@
             "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3062,
+            "stars": 3061,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-15T14:05:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-18T20:39:29Z",
+            "open_issues": 12,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20639,
+            "stars": 20641,
             "topics": [
               "angular",
               "asp-net",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:55:50.820Z",
+    "last_updated": "2026-10-19T02:12:41.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
