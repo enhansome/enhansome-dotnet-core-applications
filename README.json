@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T12:00:18Z",
-            "open_issues": 188,
+            "last_commit": "2026-10-27T17:29:16Z",
+            "open_issues": 196,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10167,
+            "stars": 10168,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T23:52:25Z",
-            "open_issues": 810,
+            "last_commit": "2026-10-28T02:33:30Z",
+            "open_issues": 818,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8214,
+            "stars": 8216,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -90,7 +90,7 @@
             "open_issues": 172,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4414,
+            "stars": 4413,
             "topics": [
               "angularjs",
               "aspnetcore",
@@ -159,11 +159,11 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:41:28Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T19:37:18Z",
+            "open_issues": 6,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2513,
+            "stars": 2514,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -211,7 +211,7 @@
             "id": 54377519,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-15T01:57:45Z",
+            "last_commit": "2026-10-27T14:50:26Z",
             "open_issues": 100,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
@@ -400,7 +400,7 @@
             "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6784,
+            "stars": 6785,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -625,7 +625,7 @@
             "open_issues": 9,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20672,
+            "stars": 20680,
             "topics": [
               "angular",
               "asp-net",
@@ -746,7 +746,7 @@
             "open_issues": 6,
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
-            "stars": 2094,
+            "stars": 2095,
             "topics": [
               "asp-net-core",
               "csharp",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14096,
+            "stars": 14099,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -836,7 +836,7 @@
             "open_issues": 26,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3687,
+            "stars": 3688,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:44:47.623Z",
+    "last_updated": "2026-10-28T02:53:15.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
