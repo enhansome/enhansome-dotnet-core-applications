@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T18:33:07Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-29T16:45:15Z",
+            "open_issues": 196,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10169,
+            "stars": 10171,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-28T18:31:11Z",
-            "open_issues": 810,
+            "last_commit": "2026-10-29T22:32:19Z",
+            "open_issues": 800,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8217,
+            "stars": 8219,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -87,7 +87,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-06-08T18:31:33Z",
-            "open_issues": 172,
+            "open_issues": 173,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
             "stars": 4413,
@@ -159,8 +159,8 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T21:49:10Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-30T03:03:46Z",
+            "open_issues": 6,
             "owner": "Squidex",
             "repo": "squidex",
             "stars": 2514,
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24291,
+            "stars": 24292,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -542,7 +542,7 @@
             "open_issues": 13,
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3061,
+            "stars": 3062,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -625,7 +625,7 @@
             "open_issues": 10,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20686,
+            "stars": 20690,
             "topics": [
               "angular",
               "asp-net",
@@ -681,7 +681,7 @@
             "open_issues": 51,
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3484,
+            "stars": 3483,
             "topics": [
               "api",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14101,
+            "stars": 14103,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -836,7 +836,7 @@
             "open_issues": 26,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3688,
+            "stars": 3687,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T03:17:23.013Z",
+    "last_updated": "2026-10-30T03:19:32.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
