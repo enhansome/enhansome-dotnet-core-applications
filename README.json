@@ -19,7 +19,7 @@
             "open_issues": 196,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10173,
+            "stars": 10172,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T21:54:36Z",
-            "open_issues": 799,
+            "last_commit": "2026-11-01T00:51:58Z",
+            "open_issues": 804,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8221,
@@ -159,8 +159,8 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T12:34:36Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-31T03:05:26Z",
+            "open_issues": 6,
             "owner": "Squidex",
             "repo": "squidex",
             "stars": 2515,
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
-            "stars": 1857,
+            "stars": 1858,
             "topics": [
               "credit",
               "finance",
@@ -501,7 +501,7 @@
             "open_issues": 32,
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2533,
+            "stars": 2534,
             "topics": [
               "aks",
               "clean-architecture",
@@ -625,7 +625,7 @@
             "open_issues": 10,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20691,
+            "stars": 20696,
             "topics": [
               "angular",
               "asp-net",
@@ -742,8 +742,8 @@
             "id": 91508938,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T12:38:45Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-31T10:32:58Z",
+            "open_issues": 4,
             "owner": "realworld-apps",
             "repo": "aspnetcore-realworld-example-app",
             "stars": 2096,
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14104,
+            "stars": 14106,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -887,7 +887,7 @@
             "open_issues": 2,
             "owner": "OKTAYKIR",
             "repo": "EventFlow.Example",
-            "stars": 205,
+            "stars": 204,
             "topics": [
               "command-handler",
               "cqrs",
@@ -995,7 +995,7 @@
             "open_issues": 6,
             "owner": "devmentors",
             "repo": "Pacco",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "microservice",
               "microservices",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T03:03:32.215Z",
+    "last_updated": "2026-11-01T02:58:33.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
