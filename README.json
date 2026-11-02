@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-01T00:51:58Z",
+            "last_commit": "2026-11-02T01:36:25Z",
             "open_issues": 804,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8221,
+            "stars": 8223,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -90,7 +90,7 @@
             "open_issues": 173,
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4413,
+            "stars": 4412,
             "topics": [
               "angularjs",
               "aspnetcore",
@@ -123,7 +123,7 @@
             "open_issues": 218,
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1896,
+            "stars": 1897,
             "topics": [
               "asp-net",
               "cart",
@@ -159,7 +159,7 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T03:05:26Z",
+            "last_commit": "2026-11-02T03:07:32Z",
             "open_issues": 6,
             "owner": "Squidex",
             "repo": "squidex",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24290,
+            "stars": 24291,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -442,7 +442,7 @@
             "open_issues": 0,
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
-            "stars": 5002,
+            "stars": 5001,
             "topics": [
               "aspnet-core",
               "clean-architecture",
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
-            "stars": 1858,
+            "stars": 1857,
             "topics": [
               "credit",
               "finance",
@@ -583,7 +583,7 @@
             "open_issues": 46,
             "owner": "ivanpaulovich",
             "repo": "clean-architecture-manga",
-            "stars": 4385,
+            "stars": 4384,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:43:54Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-02T02:02:56Z",
+            "open_issues": 14,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20696,
+            "stars": 20698,
             "topics": [
               "angular",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14106,
+            "stars": 14110,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -836,7 +836,7 @@
             "open_issues": 26,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3687,
+            "stars": 3686,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -958,8 +958,8 @@
             "id": 22034912,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T21:16:48Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-02T02:16:56Z",
+            "open_issues": 8,
             "owner": "POPWorldMedia",
             "repo": "POPForums",
             "stars": 208,
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:58:33.534Z",
+    "last_updated": "2026-11-02T03:08:09.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
