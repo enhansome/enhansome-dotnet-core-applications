@@ -57,7 +57,7 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T23:59:49Z",
+            "last_commit": "2026-11-07T13:13:26Z",
             "open_issues": 804,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
@@ -334,7 +334,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10673,
+            "stars": 10674,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10415,
+            "stars": 10413,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -625,7 +625,7 @@
             "open_issues": 11,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20704,
+            "stars": 20706,
             "topics": [
               "angular",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14124,
+            "stars": 14129,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -836,7 +836,7 @@
             "open_issues": 24,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3685,
+            "stars": 3684,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:35:19.674Z",
+    "last_updated": "2026-11-08T03:05:31.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
