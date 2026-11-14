@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T13:58:28Z",
+            "last_commit": "2026-11-13T16:28:52Z",
             "open_issues": 183,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10184,
+            "stars": 10186,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-12T20:49:54Z",
-            "open_issues": 803,
+            "last_commit": "2026-11-14T01:53:00Z",
+            "open_issues": 806,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8228,
+            "stars": 8230,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -159,8 +159,8 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-13T03:03:54Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-14T03:04:15Z",
+            "open_issues": 8,
             "owner": "Squidex",
             "repo": "squidex",
             "stars": 2517,
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24282,
+            "stars": 24281,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -400,7 +400,7 @@
             "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6785,
+            "stars": 6786,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "AdaptiveConsulting",
             "repo": "ReactiveTraderCloud",
-            "stars": 1858,
+            "stars": 1857,
             "topics": [
               "credit",
               "finance",
@@ -583,7 +583,7 @@
             "open_issues": 46,
             "owner": "ivanpaulovich",
             "repo": "clean-architecture-manga",
-            "stars": 4387,
+            "stars": 4386,
             "topics": [
               "clean-architecture",
               "clean-code",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-11T12:59:00Z",
+            "last_commit": "2026-11-13T11:34:48Z",
             "open_issues": 13,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20717,
+            "stars": 20718,
             "topics": [
               "angular",
               "asp-net",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:55:39.152Z",
+    "last_updated": "2026-11-14T03:54:15.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
