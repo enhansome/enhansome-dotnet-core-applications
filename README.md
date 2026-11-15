@@ -4,15 +4,15 @@ Open-source projects are great for getting started and serve as a good source fo
 
 ## Realtime Applications
 
-[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,186 | 🐛 183 | 🌐 C# | 📅 2026-11-13 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
+[**nopCommerce**](https://github.com/nopSolutions/nopCommerce) ⭐ 10,185 | 🐛 184 | 🌐 C# | 📅 2026-11-13 (**E-commerce**) (**GPLv3**) - is a popular open-source e-commerce shopping cart application.
 
-[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,230 | 🐛 806 | 🌐 C# | 📅 2026-11-14 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
+[**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,228 | 🐛 811 | 🌐 C# | 📅 2026-11-15 (**CMS**) (**BSD 3-Clause**) - is an open-source content management system (CMS) framework supporting modularity and multitenancy.
 
-[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,413 | 🐛 174 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
+[**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) ⭐ 4,412 | 🐛 174 | 🌐 C# | 📅 2026-06-08 (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
 [**grandnode**](https://github.com/grandnode/grandnode) ⚠️ Archived (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,517 | 🐛 8 | 🌐 C# | 📅 2026-11-14 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
+[**squidex**](https://github.com/Squidex/squidex) ⭐ 2,517 | 🐛 9 | 🌐 C# | 📅 2026-11-15 (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
 
 [**Miniblog.Core**](https://github.com/madskristensen/Miniblog.Core) ⭐ 1,524 | 🐛 63 | 🌐 C# | 📅 2026-01-19 (**Blog engine**) (**Apache 2.0**) - is a blog engine based on ASP.NET Core.
 
@@ -28,7 +28,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**eShopOnWeb**](https://github.com/dotnet-architecture/eShopOnWeb) ⚠️ Archived (**Monolithic architecture**) (**MIT**) - is a sample reference application demonstrating monolithic architecture powered by Microsoft.
 
-[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,415 | 🐛 177 | 🌐 C# | 📅 2026-09-15 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
+[**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) ⭐ 10,416 | 🐛 177 | 🌐 C# | 📅 2026-09-15 (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
 
 [**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,786 | 🐛 6 | 🌐 C# | 📅 2026-04-14 (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
@@ -44,7 +44,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) ⭐ 4,386 | 🐛 46 | 🌐 C# | 📅 2026-06-22 (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
-[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,718 | 🐛 13 | 🌐 C# | 📅 2026-11-13 (**Clean architecture**) (**MIT**) - is a clean architecture template.
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,719 | 🐛 13 | 🌐 C# | 📅 2026-11-13 (**Clean architecture**) (**MIT**) - is a clean architecture template.
 
 [**clean-testing**](https://github.com/jasontaylordev/CleanTesting) ⚠️ Archived (**Clean Testing**) (**MIT**) - is a clean testing sample application.
 
@@ -62,7 +62,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Sennedjem**](https://github.com/keremvaris/Sennedjem) ⚠️ Archived (**Clean architecture**) (**MIT**) - Sennedjem CQRS (Command Query Responsibility Segregation), Clean Architecture. RabbitMq, ElasticSearch sample
 
-[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) ⭐ 204 | 🐛 2 | 🌐 C# | 📅 2023-03-03 (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,566 | 🐛 13 | 🌐 C# | 📅 2026-10-04, [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) ⭐ 203 | 🐛 2 | 🌐 C# | 📅 2023-03-03 (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,567 | 🐛 13 | 🌐 C# | 📅 2026-10-04, [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
 [**Pos**](https://github.com/NHadi/Pos) ⭐ 330 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
@@ -82,4 +82,4 @@ This list was first posted in [Syncfusion Blog](https://www.syncfusion.com/blogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
