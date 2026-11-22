@@ -19,7 +19,7 @@
             "open_issues": 191,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10186,
+            "stars": 10187,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,8 +57,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-21T01:19:04Z",
-            "open_issues": 810,
+            "last_commit": "2026-11-22T01:13:36Z",
+            "open_issues": 822,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8230,
@@ -159,11 +159,11 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-21T03:04:36Z",
+            "last_commit": "2026-11-22T03:05:45Z",
             "open_issues": 5,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2516,
+            "stars": 2517,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24272,
+            "stars": 24270,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10417,
+            "stars": 10416,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -442,7 +442,7 @@
             "open_issues": 0,
             "owner": "jasontaylordev",
             "repo": "NorthwindTraders",
-            "stars": 4996,
+            "stars": 4995,
             "topics": [
               "aspnet-core",
               "clean-architecture",
@@ -625,7 +625,7 @@
             "open_issues": 8,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20735,
+            "stars": 20733,
             "topics": [
               "angular",
               "asp-net",
@@ -794,7 +794,7 @@
             "open_issues": 68,
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 14149,
+            "stars": 14148,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -832,7 +832,7 @@
             "id": 80280403,
             "language": "C#",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-18T15:32:17Z",
+            "last_commit": "2026-11-21T17:36:53Z",
             "open_issues": 24,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
@@ -958,7 +958,7 @@
             "id": 22034912,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T22:48:49Z",
+            "last_commit": "2026-11-21T20:15:12Z",
             "open_issues": 6,
             "owner": "POPWorldMedia",
             "repo": "POPForums",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:38:41.383Z",
+    "last_updated": "2026-11-22T03:52:48.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
