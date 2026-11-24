@@ -15,11 +15,11 @@
             "id": 18586705,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T15:13:36Z",
-            "open_issues": 192,
+            "last_commit": "2026-11-23T16:10:01Z",
+            "open_issues": 193,
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10187,
+            "stars": 10188,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -57,11 +57,11 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-23T01:34:59Z",
-            "open_issues": 816,
+            "last_commit": "2026-11-23T22:00:11Z",
+            "open_issues": 812,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8230,
+            "stars": 8229,
             "topics": [
               "asp-net",
               "c-sharp",
@@ -123,7 +123,7 @@
             "open_issues": 218,
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1898,
+            "stars": 1897,
             "topics": [
               "asp-net",
               "cart",
@@ -159,11 +159,11 @@
             "id": 66815348,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-22T03:05:45Z",
+            "last_commit": "2026-11-24T03:06:03Z",
             "open_issues": 5,
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2517,
+            "stars": 2518,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -215,7 +215,7 @@
             "open_issues": 102,
             "owner": "PiranhaCMS",
             "repo": "piranha.core",
-            "stars": 2199,
+            "stars": 2198,
             "topics": [
               "asp-net-core",
               "asp-net-core-mvc",
@@ -304,7 +304,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24270,
+            "stars": 24268,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -334,7 +334,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10668,
+            "stars": 10667,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -373,7 +373,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10416,
+            "stars": 10417,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -621,11 +621,11 @@
             "id": 213460285,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-23T03:35:28Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-23T22:13:54Z",
+            "open_issues": 9,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20734,
+            "stars": 20735,
             "topics": [
               "angular",
               "asp-net",
@@ -681,7 +681,7 @@
             "open_issues": 51,
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3483,
+            "stars": 3481,
             "topics": [
               "api",
               "asp-net",
@@ -836,7 +836,7 @@
             "open_issues": 24,
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3683,
+            "stars": 3687,
             "topics": [
               "cqrs",
               "dotnet-core",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T04:31:35.336Z",
+    "last_updated": "2026-11-24T07:26:01.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome collection of .NET Core real time, sample, architecture reference application projects",
